@@ -3,11 +3,11 @@
 Learning markdown
 Installing python
 
-##Day two
+## Day two
 Learning data types
 learning to make a simple calculator
 
-#Day Three
+## Day Three
 boolean operater
 contral flow
 complex calculator
