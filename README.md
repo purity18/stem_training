@@ -12,4 +12,9 @@ boolean operater
 contral flow
 complex calculator
 
+## Day four
+lists
+indexes
+strings as lists
+Nexted lists(matrixes)
 
